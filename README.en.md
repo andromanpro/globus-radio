@@ -2,6 +2,8 @@
 
 [Русский](README.md) · English
 
+[Open in the Laboratory](https://androman.pro/labs/globus-radio/?lang=en) · [Full-page receiver](https://androman.pro/apps/globus-radio/?lang=en)
+
 Turn the globe, aim the magnifier at a city, and listen to local radio. Globus Radio is a browser-based receiver with a wooden globe, moving gears, and internet radio from around the world.
 
 ![Illuminated globe with a lens map, radio player, and mechanical controls](docs/radio-globe-preview.png)
