@@ -1,0 +1,8 @@
+.local/
+firmware/globus_radio/wifi_secrets.h
+docs/radiobrowser-unplaced-*.xlsx
+docs/fm-catalogs-world.md
+docs/fm-transmitters-far-east.md
+docs/radio-globe-satellites-preview.png
+docs/radio-globe-satellites.webp
+__pycache__/

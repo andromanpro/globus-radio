@@ -1,0 +1,155 @@
+[
+  {
+    "id": "radio-kamchatka",
+    "placeId": 2122104,
+    "name": "Радио Камчатка",
+    "url": "https://a8.radioheart.ru:9026/RH75315",
+    "detail": "105,5 МГц · Петропавловск-Камчатский",
+    "source": "https://radiokamchatka.com/"
+  },
+  {
+    "id": "kamchatkalive-dance",
+    "placeId": 2122104,
+    "name": "Kamchatka LIVE · Dance",
+    "url": "https://radio.kamchatkalive.ru:8103/dance",
+    "detail": "Танцевальная музыка",
+    "source": "https://kamchatkalive.ru/"
+  },
+  {
+    "id": "kamchatkalive-chillout",
+    "placeId": 2122104,
+    "name": "Kamchatka LIVE · Chillout",
+    "url": "https://radio.kamchatkalive.ru:8103/chillout",
+    "detail": "Чилаут",
+    "source": "https://kamchatkalive.ru/"
+  },
+  {
+    "id": "kamchatkalive-house",
+    "placeId": 2122104,
+    "name": "Kamchatka LIVE · House",
+    "url": "https://radio.kamchatkalive.ru:8103/house",
+    "detail": "Хаус",
+    "source": "https://kamchatkalive.ru/"
+  },
+  {
+    "id": "vladivostok-fm",
+    "placeId": 2013348,
+    "name": "Владивосток FM",
+    "url": "https://stream.pari-radio.ru/vfm",
+    "detail": "106,4 МГц · Владивосток",
+    "source": "https://vladfm.com/"
+  },
+  {
+    "id": "europa-plus-vladivostok",
+    "networkId": "europa-plus",
+    "placeId": 2013348,
+    "name": "Европа Плюс · Владивосток",
+    "url": "https://emgregion.hostingradio.ru:8064/vladivostok.europaplus.mp3",
+    "detail": "104,2 МГц · Региональный эфир",
+    "source": "https://europaplus.ru/cities"
+  },
+  {
+    "id": "kp-vladivostok",
+    "placeId": 2013348,
+    "name": "Радио КП · Владивосток",
+    "url": "https://kpradio.hostingradio.ru:8000/vladivostok.radiokp64.mp3",
+    "detail": "90,4 МГц · Владивосток",
+    "source": "https://radiokp.ru/contact/vladivostok/11981"
+  },
+  {
+    "id": "radio-vostok-rossii",
+    "placeId": 2022890,
+    "name": "Радио Восток России",
+    "url": "https://online.radiovostok.org/;stream.nsv?type=http",
+    "detail": "Местный эфир · Хабаровск",
+    "source": "https://vostoknews.ru/"
+  },
+  {
+    "id": "europa-plus-habarovsk",
+    "networkId": "europa-plus",
+    "placeId": 2022890,
+    "name": "Европа Плюс · Хабаровск",
+    "url": "https://emgregion.hostingradio.ru:8064/habarovsk.europaplus.mp3",
+    "detail": "105,6 МГц · Региональный эфир",
+    "source": "https://europaplus.ru/cities"
+  },
+  {
+    "id": "kp-habarovsk",
+    "placeId": 2022890,
+    "name": "Радио КП · Хабаровск",
+    "url": "https://kpradio.hostingradio.ru:8000/habarovsk.radiokp64.mp3",
+    "detail": "88,3 МГц · Хабаровск",
+    "source": "https://radiokp.ru/contacts"
+  },
+  {
+    "id": "radio-sakha-tetim",
+    "placeId": 2013159,
+    "name": "Радио Саха · Тэтим",
+    "url": "https://icecast-saha.cdnvideo.ru/saha",
+    "detail": "Местный эфир · Якутск",
+    "source": "https://nvk-online.ru/online/"
+  },
+  {
+    "id": "dorognoe-anadyr",
+    "networkId": "dorognoe",
+    "placeId": 2127202,
+    "name": "Дорожное радио · Анадырь",
+    "url": "https://stream.stvradio.ru/radio/8000/DR_ANA",
+    "detail": "100,0 МГц · Региональный эфир",
+    "source": "https://dorognoe.ru/radiostation/broadcast-cities"
+  },
+  {
+    "id": "240d28b9-7858-48d2-a816-9cf8e1875fe8",
+    "placeId": 2953504,
+    "name": "SWR3",
+    "url": "https://liveradio.swr.de/sw282p3/swr3/play.mp3",
+    "detail": "Город главной редакции",
+    "source": "https://www.swr3.de/crew/michael-haas-100.html",
+    "locationHint": "website-city"
+  },
+  {
+    "id": "9989ba6f-0cf0-4c7a-8890-b1fe40f01710",
+    "placeId": 2147714,
+    "name": "2SM Sydney 1269AM",
+    "url": "https://cast4.asurahosting.com/proxy/2sm1269/stream",
+    "detail": "Город студии",
+    "source": "https://2sm.com.au/shows/chris-smith/",
+    "locationHint": "website-city"
+  },
+  {
+    "id": "63688c44-e90b-11e8-a471-52543be04c81",
+    "placeId": 498817,
+    "name": "Радио Ваня",
+    "url": "https://icecast-radiovanya.cdnvideo.ru/radiovanya",
+    "detail": "Город вещания",
+    "source": "https://radiovanya.ru/",
+    "locationHint": "website-city"
+  },
+  {
+    "id": "f0d81ba6-285c-4b93-97c9-4398d20c7797",
+    "placeId": 3448439,
+    "name": "Kiss FM 92.5 · São Paulo",
+    "url": "https://26593.live.streamtheworld.com/RADIO_KISSFM_ADP.aac",
+    "detail": "Город студии",
+    "source": "https://kissfm.com.br/cobertura-de-evento/open-house-kiss-fm-2025-aniversario-de-24-anos/",
+    "locationHint": "website-city"
+  },
+  {
+    "id": "809a0f17-d636-497e-a38b-3b3031ce2d40",
+    "placeId": 5128581,
+    "name": "WKDM 纽约华语广播国语台",
+    "url": "https://video1.getstreamhosting.com:8292/stream?.mp3",
+    "detail": "Город станции",
+    "source": "https://www.nysino.com/am1380/%E8%81%AF%E7%B9%AB%E6%88%91%E5%80%91/",
+    "locationHint": "website-city"
+  },
+  {
+    "id": "9f5d0645-ae1e-4e9f-9b2f-91fa63d5b1fa",
+    "placeId": 2643743,
+    "name": "talkSPORT",
+    "url": "https://radio.talksport.com/stream",
+    "detail": "Город студии",
+    "source": "https://www.news.co.uk/latest-news/talksport-unveils-brand-new-state-of-the-art-broadcasting-studios/",
+    "locationHint": "website-city"
+  }
+]

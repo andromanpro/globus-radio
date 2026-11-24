@@ -1,0 +1,192 @@
+{
+  "streams": [
+    {
+      "id": "radio-rossii-common",
+      "name": "Радио России · общий эфир",
+      "url": "https://icecast-vgtrk.cdnvideo.ru/rrzonam"
+    },
+    {
+      "id": "classic-fm-uk",
+      "country": "GB",
+      "name": "Classic FM",
+      "url": "https://media-ssl.musicradio.com/ClassicFMMP3"
+    }
+  ],
+  "bbc_streams": {
+    "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/{}.m3u8",
+    "stations": {
+      "BBC Coventry and Warwickshire": "bbc_radio_coventry_warwickshire",
+      "BBC Essex": "bbc_radio_essex",
+      "BBC Guernsey": "bbc_radio_guernsey",
+      "BBC Hereford and Worcester": "bbc_radio_hereford_worcester",
+      "BBC Lincolnshire": "bbc_radio_lincolnshire",
+      "BBC London": "bbc_london",
+      "BBC Newcastle": "bbc_radio_newcastle",
+      "BBC Oxford": "bbc_radio_oxford",
+      "BBC Radio 1": "bbc_radio_one",
+      "BBC Radio 2": "bbc_radio_two",
+      "BBC Radio 3": "bbc_radio_three",
+      "BBC Radio 4": "bbc_radio_fourfm",
+      "BBC Radio Berkshire": "bbc_radio_berkshire",
+      "BBC Radio Bristol": "bbc_radio_bristol",
+      "BBC Radio Cambridgeshire": "bbc_radio_cambridge",
+      "BBC Radio Cornwall": "bbc_radio_cornwall",
+      "BBC Radio Cumbria": "bbc_radio_cumbria",
+      "BBC Radio Cymru": "bbc_radio_cymru",
+      "BBC Radio Derby": "bbc_radio_derby",
+      "BBC Radio Devon": "bbc_radio_devon",
+      "BBC Radio Foyle": "bbc_radio_foyle",
+      "BBC Radio Gloucestershire": "bbc_radio_gloucestershire",
+      "BBC Radio Humberside": "bbc_radio_humberside",
+      "BBC Radio Jersey": "bbc_radio_jersey",
+      "BBC Radio Kent": "bbc_radio_kent",
+      "BBC Radio Lancashire": "bbc_radio_lancashire",
+      "BBC Radio Leeds": "bbc_radio_leeds",
+      "BBC Radio Leicester": "bbc_radio_leicester",
+      "BBC Radio Manchester": "bbc_radio_manchester",
+      "BBC Radio Merseyside": "bbc_radio_merseyside",
+      "BBC Radio Norfolk": "bbc_radio_norfolk",
+      "BBC Radio Northampton": "bbc_radio_northampton",
+      "BBC Radio Nottingham": "bbc_radio_nottingham",
+      "BBC Radio Scotland": "bbc_radio_scotland_fm",
+      "BBC Radio Sheffield": "bbc_radio_sheffield",
+      "BBC Radio Shropshire": "bbc_radio_shropshire",
+      "BBC Radio Solent": "bbc_radio_solent",
+      "BBC Radio Stoke": "bbc_radio_stoke",
+      "BBC Radio Suffolk": "bbc_radio_suffolk",
+      "BBC Radio Surrey": "bbc_radio_surrey",
+      "BBC Radio Sussex": "bbc_radio_sussex",
+      "BBC Radio Ulster": "bbc_radio_ulster",
+      "BBC Radio Wales": "bbc_radio_wales_fm",
+      "BBC Radio York": "bbc_radio_york",
+      "BBC Radio nan Gaidheal": "bbc_radio_nan_gaidheal",
+      "BBC Somerset": "bbc_radio_somerset_sound",
+      "BBC Tees": "bbc_tees",
+      "BBC Three Counties Radio": "bbc_three_counties_radio",
+      "BBC WM": "bbc_wm",
+      "BBC Wiltshire": "bbc_radio_wiltshire"
+    }
+  },
+  "sources": {
+    "elabuga": [
+      "РТРС · Елабуга",
+      "https://e-ecolog.ru/crc/27.99.24.000.%D0%A2.000722.09.26"
+    ],
+    "gurskoye": [
+      "РТРС · Гурское",
+      "https://e-ecolog.ru/crc/27.99.24.000.%D0%A2.000723.09.26"
+    ],
+    "amgun": [
+      "РТРС · Амгунь",
+      "https://e-ecolog.ru/crc/27.99.24.000.%D0%A2.000720.09.26"
+    ],
+    "beryozovy": [
+      "РТРС · Берёзовый",
+      "https://e-ecolog.ru/crc/27.99.24.000.%D0%A2.000721.09.26"
+    ],
+    "gorin": [
+      "РТРС · Горин",
+      "https://e-ecolog.ru/crc/27.99.24.000.%D0%A2.000719.09.26"
+    ],
+    "vladivostok": [
+      "РТРС · Владивосток",
+      "https://e-ecolog.ru/crc/25.%D0%9F%D0%A6.01.000.%D0%A2.000681.09.26"
+    ],
+    "magadan-frequencies": [
+      "МЧС · Магаданская область",
+      "https://49.mchs.gov.ru/deyatelnost/grazhdanskaya-oborona/opoveshchenie-naseleniya"
+    ]
+  },
+  "transmitters": [
+    [
+      "RU",
+      "radio-vostok-rossii",
+      88.9,
+      48.797778,
+      135.870556,
+      0.0378,
+      18,
+      "Елабуга",
+      "elabuga"
+    ],
+    [
+      "RU",
+      "radio-vostok-rossii",
+      103.7,
+      50.309722,
+      138.091944,
+      0.0369,
+      20,
+      "Гурское",
+      "gurskoye"
+    ],
+    [
+      "RU",
+      "radio-vostok-rossii",
+      103.7,
+      51.416389,
+      135.081944,
+      0.0379,
+      15,
+      "Амгунь",
+      "amgun"
+    ],
+    [
+      "RU",
+      "radio-vostok-rossii",
+      102.8,
+      51.68,
+      135.686944,
+      0.1264,
+      25,
+      "Берёзовый",
+      "beryozovy"
+    ],
+    [
+      "RU",
+      "radio-vostok-rossii",
+      103.5,
+      51.192222,
+      136.658611,
+      0.1264,
+      25,
+      "Горин",
+      "gorin"
+    ],
+    [
+      "RU",
+      "europa-plus-vladivostok",
+      104.2,
+      43.1225,
+      131.899444,
+      1,
+      146,
+      "Владивосток · Орлиное Гнездо",
+      "vladivostok",
+      "transmitter"
+    ],
+    [
+      "RU",
+      "radio-rossii-common",
+      102.1,
+      43.1225,
+      131.899444,
+      1,
+      146,
+      "Владивосток · Орлиное Гнездо",
+      "vladivostok",
+      "transmitter"
+    ],
+    [
+      "RU",
+      "radio-rossii-common",
+      103.5,
+      59.593611,
+      150.809444,
+      0,
+      0,
+      "Магадан · сопка Крутая",
+      "magadan-frequencies"
+    ]
+  ]
+}
